@@ -9,8 +9,9 @@ npm install @apidevtools/json-schema-ref-parser
 ```
 
 ## Usage
-
+```
 normaliseSchema([FILENAME])
+```
 
 where FILENAME is a fileName located in the current directory.
 
